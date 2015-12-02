@@ -1,6 +1,8 @@
 # CheapBase
 [Poor Man's](http://procbits.com/2014/01/06/poor-mans-firebase-leveldb-rest-and-websockets) lightweight database RPC over WebSockets, similar to [Firebase](https://www.firebase.com/tutorial), but hosted [for free](https://cheapbase.herokuapp.com).
 
+**Live demo**: [Cheap Chat](https://cheapbase.herokuapp.com)
+
 To test it out:
 
 ```
